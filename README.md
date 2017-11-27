@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+
+Hi James!
+Hope you can be a excellent programmer.
